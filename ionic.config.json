@@ -1,5 +1,7 @@
 {
   "name": "local-storage",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
